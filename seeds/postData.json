@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Money Heist",
+        "description": "A criminal mastermind who goes by \"The Professor\" has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain.",
+        "blogger_id": 1,
+    },
+    {
+        "id": 2,
+        "title": "The Witcher",
+        "description": "The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts.",
+        "blogger_id": 2,
+    },
+    {
+        "id": 3,
+        "title": "The Umbrella Academy",
+        "description": "A family of former child heroes, now grown apart, must reunite to continue to protect the world.",
+        "blogger_id": 3,
+    }
+]
